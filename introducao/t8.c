@@ -1,3 +1,7 @@
+/* troca do valor de duas 
+variáveis sem precisar de uma terceira 
+*/
+
 #include <stdio.h>
 
 int main(){
